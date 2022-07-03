@@ -1,5 +1,7 @@
 # FitnessPlannerApplication
 
+● THIS PROJECT IS UNDER COPYRIGHT UNDER THE DIARY NAME 31857/2021-CO/SW · (Filed On Dec 29, 2021)
+
 ●The Fitness planner system is an application that is designed for the gym admin as well as clients where the gym admin can monitor, and analyze the records and
 activities of all the clients and get all information in one place.
 
